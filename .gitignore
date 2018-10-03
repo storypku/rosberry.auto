@@ -1,0 +1,13 @@
+build/
+install/
+devel/
+.catkin_workspace
+*~
+*.o
+*.so
+*.a
+*.bak
+*.orig
+*.org
+.*.swp
+.idea/
