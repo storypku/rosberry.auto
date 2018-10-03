@@ -1,6 +1,6 @@
 # rosberry.auto
 
-A self-driving car powered both by Raspberry PI and ros.
+A self-driving car powered both by Raspberry PI and ROS.
 
 ## Build
 ```
